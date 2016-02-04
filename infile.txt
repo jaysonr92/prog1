@@ -1,0 +1,7 @@
+//basic text input file 
+
+ADDF m 58 XF 
+DIV m 24 
+LDA m 00
+MULF m 60 XF
+TIXR r1,r2 B8 XC
